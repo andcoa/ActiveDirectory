@@ -21,7 +21,7 @@ To build a fully functional on‑premises Active Directory domain environment fr
 
 ## Steps
 
-Designed the layout of the network used in the Active Directory project and labeled the flow of data between devices.
+Designed the layout of the network labeled the data flow between the VMs.
 
 ![image](https://github.com/user-attachments/assets/9ecf6f58-3901-4449-a195-34d83e0134a2)
 
