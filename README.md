@@ -18,3 +18,11 @@ To build a fully functional on‑premises Active Directory domain environment fr
 - VirtualBox – To host Ubuntu/Windows/Kali Linux virtual machines.
 - Splunk Universal Forwarder & Sysmon – Configured on Windows servers and workstations to collect and forward telemetry logs.
 - Atomic Red Team – Deployed on the target VM to generate simulated attack behaviors.
+
+## Steps
+
+Designed the layout of the network used in the Active Directory project and labeled the flow of data between devices.
+
+![image](https://github.com/user-attachments/assets/9ecf6f58-3901-4449-a195-34d83e0134a2)
+
+
