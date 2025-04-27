@@ -29,7 +29,7 @@ Set up the Windows 10, Kali Linux, Ubuntu Server and Windows Server 2022 VM envi
 
 ![image](https://github.com/user-attachments/assets/5e3f7e0b-769b-4741-8385-5b34e11768e4)
 
-Updated the Ubuntu Server to prepare it for the Splunk Server installation running the following command:
+Updated the Ubuntu Server to prepare it for the Splunk Server installation by running the following command:
 
 ![image](https://github.com/user-attachments/assets/72caff2d-e285-4ab6-803b-0ef6d44b0438)
 
