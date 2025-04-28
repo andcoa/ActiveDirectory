@@ -39,7 +39,8 @@ Updated the Ubuntu Server to prepare it for the Splunk Server installation by ru
 
 Wrote a YAML script in the Ubuntu Server to assign it the static IP described in the network diagram above.
 
-![image](https://github.com/user-attachments/assets/7f1c5f67-d60f-48b5-bace-c60c4e43f9b9)
+![image](https://github.com/user-attachments/assets/b4e18c80-e326-4e52-b85d-7c6774dcd73d)
+
 
 
 
