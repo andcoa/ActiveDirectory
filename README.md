@@ -43,6 +43,9 @@ Wrote a YAML script in the Ubuntu Server to assign it the static IP described in
 
 ![image](https://github.com/user-attachments/assets/15929736-e585-47ba-92a7-d942539d970c)
 
+Downloaded the Splunk Enterprise .deb file to be installed on the Ubuntu Server.
+
+![image](https://github.com/user-attachments/assets/8b2123a3-bfb7-4cd2-831e-13695ff6dcab)
 
 
 
