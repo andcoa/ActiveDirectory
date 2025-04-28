@@ -33,5 +33,11 @@ Updated the Ubuntu Server to prepare it for the Splunk Server installation by ru
 
 ![image](https://github.com/user-attachments/assets/72caff2d-e285-4ab6-803b-0ef6d44b0438)
 
+Created a NAT Network so the machines can access the Internet while on the same network.
 
+![image](https://github.com/user-attachments/assets/de5cb74e-6327-4ebe-a9ef-a0e1c9069fad)
+
+Wrote a YAML config in the Ubuntu Server to assign it the static IP described in the network diagram above.
+
+![image](https://github.com/user-attachments/assets/c4dc9ba5-19a1-4640-9da4-43e4e508cf7d)
 
