@@ -50,6 +50,7 @@ Downloaded the Splunk Enterprise .deb file to be installed on the Ubuntu Server.
 Installed the VirtualBox guest addition addons on the Ubuntu Server.
 
 ![image](https://github.com/user-attachments/assets/d49df6e3-dc09-43ae-a14a-789d8ee1f9a1)
+![image](https://github.com/user-attachments/assets/16dde993-9ea6-44e0-a2db-a1a30dd3d586)
 
-
+After rebooting the Ubuntu Server VM, the user was added to the VirtualBox SF group
 
