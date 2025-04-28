@@ -55,3 +55,6 @@ Installed the VirtualBox guest addition addons on the Ubuntu Server.
 
 After rebooting the Ubuntu Server VM, the user was added to the VirtualBox SF group
 
+![image](https://github.com/user-attachments/assets/d9a837d7-01f8-4637-af26-b948fe35fdc7)
+
+
