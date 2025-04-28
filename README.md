@@ -47,6 +47,9 @@ Downloaded the Splunk Enterprise .deb file to be installed on the Ubuntu Server.
 
 ![image](https://github.com/user-attachments/assets/8b2123a3-bfb7-4cd2-831e-13695ff6dcab)
 
+Installed the guest addition addons for VirtualBox on the Ubuntu Server.
+
+![image](https://github.com/user-attachments/assets/d49df6e3-dc09-43ae-a14a-789d8ee1f9a1)
 
 
 
