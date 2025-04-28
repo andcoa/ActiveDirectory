@@ -37,7 +37,7 @@ Created a NAT Network so the machines can access the Internet while on the same 
 
 ![image](https://github.com/user-attachments/assets/de5cb74e-6327-4ebe-a9ef-a0e1c9069fad)
 
-Wrote a YAML config in the Ubuntu Server to assign it the static IP described in the network diagram above.
+Wrote a YAML script in the Ubuntu Server to assign it the static IP described in the network diagram above.
 
 ![image](https://github.com/user-attachments/assets/3d4418e8-06df-4a65-8013-6b3ea8e56982)
 
