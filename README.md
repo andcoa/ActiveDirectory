@@ -83,3 +83,8 @@ Changed the name of the Windows 10 VM to "target-PC"
 Downloaded the Splunk Universal Forwarder .msi file for the Windows 10 VM.
 
 ![image](https://github.com/user-attachments/assets/132bdd20-c582-415e-b6b0-e46c6e3f9eaf)
+
+Assigned the Ubuntu Server's IP and default port 9997 to the Receiving Indexer setting.
+
+![image](https://github.com/user-attachments/assets/2078161d-c657-4f7f-9fde-32aec99ded47)
+
