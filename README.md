@@ -100,5 +100,11 @@ Changed the credential settings in Services -> Log On to "Local System account" 
 
 ![image](https://github.com/user-attachments/assets/d2eac6f3-07d0-4c28-8671-7a17cbb18e7f)
 
+In Splunk, an index named "endpoint" was created to match the one in the inputs.conf file.
 
+![image](https://github.com/user-attachments/assets/ce6985d4-2bf3-4005-8883-56259802e6d7)
+
+Enabled the Splunk Server to receive data by adding the default port 9997 as the Receiving Port.
+
+![image](https://github.com/user-attachments/assets/3cb24f03-5a37-40c5-a56b-8eada44a8b71)
 
