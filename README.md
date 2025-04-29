@@ -96,7 +96,7 @@ The events defined in the inputs.conf file will be displayed under the index "en
 
 ![image](https://github.com/user-attachments/assets/45779b30-738e-472e-8406-07368a85f35f)
 
-Changed the credential settings in Servies -> Log On to "Local System account" in order for the Splunk Forwarder to be able to collect logs.
+Changed the credential settings in Services -> Log On to "Local System account" in order for the Splunk Forwarder to be able to collect logs.
 
 ![image](https://github.com/user-attachments/assets/d2eac6f3-07d0-4c28-8671-7a17cbb18e7f)
 
