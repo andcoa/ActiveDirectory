@@ -73,3 +73,7 @@ Ran the following command to ensure Splunk starts up under the user "splunk" eve
 
 ![image](https://github.com/user-attachments/assets/df868a0f-0586-435c-beb2-17673a1179f4)
 
+Changed the name of the Windows 10 VM to "target-PC"
+
+![image](https://github.com/user-attachments/assets/318859ae-99fd-42a8-98ec-04cf292e5db2)
+
