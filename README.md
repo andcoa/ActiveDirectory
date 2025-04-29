@@ -118,7 +118,7 @@ The Windows Server 2022 VM was set up exactly the same way as the Windows 10 VM.
 
 ## Active Directory configuration
 
-Select the Active Directory Domain Services (AD DS) Role installation.
+Select the Active Directory Domain Services (AD DS) installation.
 
 ![image](https://github.com/user-attachments/assets/acde8cb8-c485-4a42-9335-c8a134cf1d90)
 
