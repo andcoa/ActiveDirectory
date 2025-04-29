@@ -33,7 +33,7 @@ Created a NAT Network so the machines can access the Internet while on the same 
 
 ![image](https://github.com/user-attachments/assets/de5cb74e-6327-4ebe-a9ef-a0e1c9069fad)
 
-### Ubuntu Splunk Server setup
+### Ubuntu Server Splunk setup
 Updated the Ubuntu Server to prepare it for the Splunk Server installation by running the following command:
 
 ![image](https://github.com/user-attachments/assets/72caff2d-e285-4ab6-803b-0ef6d44b0438)
@@ -74,6 +74,8 @@ Ran the following command to ensure Splunk starts up under the user "splunk" eve
 
 ![image](https://github.com/user-attachments/assets/df868a0f-0586-435c-beb2-17673a1179f4)
 
+
+###Windows 10 VM setup
 Changed the name of the Windows 10 VM to "target-PC"
 
 ![image](https://github.com/user-attachments/assets/318859ae-99fd-42a8-98ec-04cf292e5db2)
