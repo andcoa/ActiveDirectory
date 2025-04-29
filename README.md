@@ -53,8 +53,18 @@ Installed the VirtualBox guest addition addons on the Ubuntu Server.
 ![image](https://github.com/user-attachments/assets/d790c469-d2ac-4c13-abe0-b2b91bd15535)
 
 
-After rebooting the Ubuntu Server VM, the user was added to the VirtualBox SF group
+After rebooting the Ubuntu Server VM, the user was added to the VirtualBox SF group.
 
 ![image](https://github.com/user-attachments/assets/d9a837d7-01f8-4637-af26-b948fe35fdc7)
+
+Created a new directory named "share" and mounted the shared folder on it.
+
+![image](https://github.com/user-attachments/assets/d2878691-ece8-4d82-993d-be206b5817a9)
+
+![image](https://github.com/user-attachments/assets/e4044225-2a8c-4a7a-81c3-ea1e7e4a80ec)
+
+Installed Splunk by running the following command:
+
+![image](https://github.com/user-attachments/assets/da78d6e4-4877-4a03-a757-dd727bd351ae)
 
 
