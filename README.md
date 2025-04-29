@@ -77,3 +77,6 @@ Changed the name of the Windows 10 VM to "target-PC"
 
 ![image](https://github.com/user-attachments/assets/318859ae-99fd-42a8-98ec-04cf292e5db2)
 
+Downloaded the Splunk Universal Forwarder .msi file for the Windows 10 VM.
+
+![image](https://github.com/user-attachments/assets/132bdd20-c582-415e-b6b0-e46c6e3f9eaf)
