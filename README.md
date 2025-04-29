@@ -108,3 +108,8 @@ Enabled the Splunk Server to receive data by adding the default port 9997 as the
 
 ![image](https://github.com/user-attachments/assets/3cb24f03-5a37-40c5-a56b-8eada44a8b71)
 
+Confirmed Splunk is correctly set up and data from the target machine is received.
+
+![image](https://github.com/user-attachments/assets/b79285bd-94ae-4147-b372-5e5b8c37f471)
+
+Note: The Windows Server 2022 was set up exactly the same way.
