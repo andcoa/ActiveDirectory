@@ -65,6 +65,7 @@ Created a new directory named "share" and mounted the shared folder on it.
 
 Installed Splunk by running the following command:
 
-![image](https://github.com/user-attachments/assets/da78d6e4-4877-4a03-a757-dd727bd351ae)
+![image](https://github.com/user-attachments/assets/7e3c3f29-441d-456d-bf9a-46f7833af07d)
+
 
 
