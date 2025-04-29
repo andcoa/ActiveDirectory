@@ -113,8 +113,8 @@ Confirmed Splunk is correctly set up and data from the target machine is receive
 ![image](https://github.com/user-attachments/assets/b79285bd-94ae-4147-b372-5e5b8c37f471)
 
 
-### Windows Server 2022
-The Windows Server 2022 was set up exactly the same way.
+### Windows Server 2022 set up
+The Windows Server 2022 VM was set up exactly the same way as the Windows 10 VM.
 
 ![image](https://github.com/user-attachments/assets/d28a3ac6-9920-46ab-9978-9324a0bb8a33)
 
