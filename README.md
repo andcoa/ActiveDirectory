@@ -122,4 +122,5 @@ Select the Active Directory Domain Services (AD DS) installation.
 
 ![image](https://github.com/user-attachments/assets/acde8cb8-c485-4a42-9335-c8a134cf1d90)
 
+![image](https://github.com/user-attachments/assets/2604b6c0-ebf0-4b69-b9bf-f4f73e9a239a)
 
