@@ -63,9 +63,10 @@ Created a new directory named "share" and mounted the shared folder on it.
 
 ![image](https://github.com/user-attachments/assets/e4044225-2a8c-4a7a-81c3-ea1e7e4a80ec)
 
-Installed Splunk by running the following command:
+Installed Splunk by executing the following command, switching to the Splunk user and running the Splunk installer.
 
 ![image](https://github.com/user-attachments/assets/7e3c3f29-441d-456d-bf9a-46f7833af07d)
 
+![image](https://github.com/user-attachments/assets/20c6f9e4-25eb-4ada-9e0e-6c12197bee3f)
 
 
