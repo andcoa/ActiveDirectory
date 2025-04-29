@@ -88,3 +88,13 @@ Assigned the Ubuntu Server's IP and default port 9997 to the Receiving Indexer s
 
 ![image](https://github.com/user-attachments/assets/2078161d-c657-4f7f-9fde-32aec99ded47)
 
+Configured the inputs.conf file under the "local" directory to instruct the Splunk Forwader on what information to send to the Splunk Server.
+
+![image](https://github.com/user-attachments/assets/7b894f2a-a6d9-4bb1-8d88-41552556b774)
+
+The events defined in the inputs.conf file will be displayed under the index "endpoint" in Splunk.
+
+![image](https://github.com/user-attachments/assets/45779b30-738e-472e-8406-07368a85f35f)
+
+
+
