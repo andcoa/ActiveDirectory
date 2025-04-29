@@ -69,7 +69,7 @@ Installed Splunk by executing the following command, switching to the Splunk use
 
 ![image](https://github.com/user-attachments/assets/20c6f9e4-25eb-4ada-9e0e-6c12197bee3f)
 
-Ran the following command to ensure Splunk starts up every time the Ubuntu Server VM reboots.
+Ran the following command to ensure Splunk starts up under the user "splunk" every time the Ubuntu Server VM reboots.
 
 ![image](https://github.com/user-attachments/assets/df868a0f-0586-435c-beb2-17673a1179f4)
 
