@@ -122,3 +122,8 @@ Installed the Active Directory Domain Services (AD DS) on the Windows Server 202
 
 ![image](https://github.com/user-attachments/assets/2604b6c0-ebf0-4b69-b9bf-f4f73e9a239a)
 
+Promoted the server to a Domain Controller.
+
+![image](https://github.com/user-attachments/assets/1589df73-e814-4ac1-be37-b1995f9d40a9)
+
+
