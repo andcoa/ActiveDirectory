@@ -136,7 +136,8 @@ Created two Organizational Units named "IT" and "HR" with a user for each respec
 
 ![image](https://github.com/user-attachments/assets/b96ad9b4-41fa-41a0-ac07-bf0cc9b8f772)
 
-On the Windows 10 VM, the DNS server was changed to the IP of the Windows Server 2022 VM in order to be able to join the domain created above.
+On the Windows 10 VM, the DNS server was changed to the IP of the Windows Server 2022 VM in order to be able to join the DBZ domain created above.
 
 ![image](https://github.com/user-attachments/assets/114fd8ed-b3da-4174-a4f4-22b1420edc65)
+
 
