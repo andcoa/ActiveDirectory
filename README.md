@@ -130,3 +130,9 @@ Successfully installed AD DS and promoted the server to a Domain Controller.
 
 ![image](https://github.com/user-attachments/assets/a923286f-3105-4f2c-8620-2c09c21318a6)
 
+Created two Organizational Units named "IT" and "HR" with a user for each respective group.
+
+![image](https://github.com/user-attachments/assets/96ec0de0-7050-4dc7-ae23-6851dc77b245)
+
+![image](https://github.com/user-attachments/assets/b96ad9b4-41fa-41a0-ac07-bf0cc9b8f772)
+
