@@ -140,4 +140,11 @@ On the Windows 10 VM, the DNS server was changed to the IP of the Windows Server
 
 ![image](https://github.com/user-attachments/assets/114fd8ed-b3da-4174-a4f4-22b1420edc65)
 
+![image](https://github.com/user-attachments/assets/bbae5660-aa00-473f-9d5e-59ce4ad2945d)
+
+Logged in on the Windows 10 VM with the credentials of the "Jenny" user created earlier.
+
+![image](https://github.com/user-attachments/assets/d60d22e2-7174-4513-8e42-14a73d717261)
+
+
 
