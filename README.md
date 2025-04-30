@@ -126,4 +126,7 @@ Promoted the server to a Domain Controller.
 
 ![image](https://github.com/user-attachments/assets/1589df73-e814-4ac1-be37-b1995f9d40a9)
 
+Successfully installed AD DS and promoted the server to a Domain Controller.
+
+![image](https://github.com/user-attachments/assets/a923286f-3105-4f2c-8620-2c09c21318a6)
 
